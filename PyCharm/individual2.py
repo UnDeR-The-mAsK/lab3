@@ -1,0 +1,1 @@
+print((100*int(input('a3='))+10*int(input('a2='))+int(input('a1=')))+(10*int(input('b2='))+int(input('b1='))))
